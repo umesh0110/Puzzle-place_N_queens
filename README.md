@@ -6,6 +6,7 @@ Sorting is used in this problem to sort the scores from players and display the 
 Files are used to store previous scores.
 
 Functions description :
+
 queen():
 	This function finds the solutions for n queens by using backtracking.each solution is stord in array a. 
 place()
