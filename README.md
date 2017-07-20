@@ -49,9 +49,6 @@ keyboard():
 opef():
  This module helps in opening scores.dat file and input the previous scores for comparison with present score . 
 
-closf(): 
-This module helps in opening scores.dat file and add the updated scores to the file .
-
 
 
 INSTRUCTIONS
